@@ -103,3 +103,18 @@ footer{
     text-align: center;
     color: seashell;
 }
+
+
+
+
+
+@media screen and (max-width:479px){
+    .pl{
+        width: auto;
+        float: none;
+    }
+}
+#contents #r_contents{
+    width: auto;
+    float: none;
+}
