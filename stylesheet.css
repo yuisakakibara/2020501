@@ -16,7 +16,7 @@ a{
 }
 
 header{
-    background-image: url(./IMG_5257.JPG);
+    background-image: url(./IMG_5257.jpg);
     background-size: initial;
     color: midnightblue;
     width: auto;
@@ -34,7 +34,7 @@ li{
 
 main {
     margin: 0;
-    background-image: url(./IMG_5257.JPG);
+    background-image: url(./IMG_5257.jpg);
     background-size: cover;
     
 }
